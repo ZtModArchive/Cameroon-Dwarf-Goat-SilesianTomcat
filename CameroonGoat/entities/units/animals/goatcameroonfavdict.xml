@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+     <GoatCameroonEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\GoatCameroon\GoatCameroonEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </GoatCameroonEmote>
+   </BFParticleDictionary>

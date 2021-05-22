@@ -1,0 +1,125 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <GoatCameroon>Cameroon Dwarf Goat</GoatCameroon>
+      <GoatCameroon_stt>Cameroon dwarf goat</GoatCameroon_stt>
+      <GoatCameroon_lower>the cameroon dwarf goat</GoatCameroon_lower>
+      <GoatCameroon_ltt>
+         <color r="255" g="248" b="178">
+            <b>Cameroon Dwarf Goat</b>
+         </color>
+         <br/>
+         Click to select and then place a Cameroon dwarf goat, also known as African pygmy goat.
+      </GoatCameroon_ltt>
+      <!--gift names-->
+      <GoatCameroon_Gift>Cameroon Dwarf Goat Stuffed Animal</GoatCameroon_Gift>
+      <GoatCameroon_Gift_stt>Cameroon dwarf goat stuffed animal</GoatCameroon_Gift_stt>
+      <GoatCameroon_Gift_lower>the cameroon dwarf goat stuffed animal</GoatCameroon_Gift_lower>
+      <GoatCameroon_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Cameroon Dwarf Goat Stuffed Animal</b>
+         </color>
+         <br/>Guests who enjoy watching the cameroon dwarf goat will buy this gift.
+      </GoatCameroon_Gift_ltt>
+   </entityname>
+   <zoopedia_goatcameroon>
+      <entry>Goat, Cameroon Dwarf</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+<cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/GoatCameroon/GoatCameroon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+<br/>
+<cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+Lower Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Grassland<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Worldwide<br/></color>
+                  <img src="ui/icon_maplocations/Grassland_Worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Even-Toed Ungulates <i>(Artiodactyla)</i><br/>Family: Bovids <i>(Bovidae)</i><br/>Genus: <i>Capra</i><br/>Species:<i>hircus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Cameroon Dwarf Goat Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The original name of the Pygmy goat was Cameroon dwarf goat.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pygmy goats originally came from the Cameroon region of West Africa. Now they are found as pets in many places.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+                               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dedicated for my daughters Romana and Anezka.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the cameroon dwarf goat in challenge or campaign games, you must earn a 1/2-star zoo fame rating for your zoo.</color>
+            <p/>Adult Pygmy goats are 18" to 20" tall. Their colors are gray, black, white or any combination of these colors. Their hair is smooth and short. Both sexes have horns. The females' horns are generally short and straight. The males' horns are longer and either scimitar-shaped or spiraling.  
+
+<p/> Goats are known for their ability to survive on poor pasture. They are vegetarians that prefer to browse rather than pasture. To reach high branches they stand on their hind legs. They are agile climbers due in part to the hair which grows between their hooves. That hair helps give them traction on smooth surfaces.
+<p/> Goats were domesticated by man before 7500 B.C. They have developed into animals that do well in areas where sheep could not survive. Standard size goats are raised for their milk and meat. Pygmy goats are friendly and safe to pet.            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620"> <u><color r="255" g="231" b="135"> Recoloured and coded animal by Roman Kocourek-Silesian Tomcat</color></u>
+         </cell>
+      </text>
+   </zoopedia_goatcameroon>
+</ZT2Strings>
